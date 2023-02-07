@@ -2,7 +2,7 @@
   Me Interesso por tecnologia e programação 🐱‍💻 <br>
   Cursando atualmente: Ensino médio <br>
   
-![João Marcos status](https://github-readme-stats.vercel.app/api?usernameJoao-Sant-Ana&show_icons=true&theme=dracula)
+![João Marcos status](https://github-readme-stats.vercel.app/api?username=Joao-Sant-Ana&show_icons=true&theme=dracula)
 
 ## Teconlogias que uso diariamente e que estou me aprofundando:
 
