@@ -1,6 +1,6 @@
 ### Olá Eu sou o João Marcos
-  Me Interesso por tecnologia e programação 🐱‍💻 <br>
-  Cursando atualmente: Ensino médio e Ensino Técnico no SENAI <br>
+  Atualmente estou cursando Ensino Médio
+  e estou fazendo SENAI.<br>
   
 ![João Marcos status](https://github-readme-stats.vercel.app/api?username=Joao-Sant-Ana&show_icons=true&theme=dracula)
 
