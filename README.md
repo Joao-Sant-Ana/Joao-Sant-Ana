@@ -3,6 +3,7 @@
   e estou fazendo SENAI.<br>
   
 ![João Marcos status](https://github-readme-stats.vercel.app/api?username=Joao-Sant-Ana&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Sant-Ana&langs_count=8)](https://github.com/Joao-Sant-Ana/github-readme-stats)
 
 ## Teconlogias que uso diariamente e que estou me aprofundando:
 
