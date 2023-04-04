@@ -2,9 +2,8 @@
   Atualmente estou cursando Ensino Médio
   e estou fazendo SENAI.<br>
   
-![João Marcos status](https://github-readme-stats.vercel.app/api?username=Joao-Sant-Ana&show_icons=true&theme=dracula)<br>
+![João Marcos status](https://github-readme-stats.vercel.app/api?username=Joao-Sant-Ana&show_icons=true&theme=gradient)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Sant-Ana&langs_count=8)](https://github.com/Joao-Sant-Ana/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Joao-Sant-Ana)](https://github.com/Joao-Sant-Ana/github-readme-stats)
 ## Teconlogias que uso diariamente e que estou me aprofundando:
 
 <div style="display_inline_block"><br/>
