@@ -1,6 +1,6 @@
 ### Olá Eu sou o João Marcos
   Atualmente estou cursando Ensino Médio
-  e estou fazendo SENAI.<br>
+  e SENAI.<br>
   
 ![João Marcos status](https://github-readme-stats.vercel.app/api?username=Joao-Sant-Ana&show_icons=true&theme=radical)<br>
 As linguagens que uso no meu dia a dia:<br>
