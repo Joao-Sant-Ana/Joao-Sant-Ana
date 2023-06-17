@@ -26,6 +26,3 @@ Estou no segundo ano do ensimo médio e estou cursando SENAI em programação Fu
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joao-sant-ana&theme=dark&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api?username=joao-sant-ana&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-sant-ana&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-## Teconlogias que tenho conhecimento:
-
-
