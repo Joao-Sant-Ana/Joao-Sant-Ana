@@ -1,12 +1,8 @@
-### Olá Eu sou o João Marcos
-  Atualmente estou cursando Ensino Médio
-  e SENAI.<br>
-  
-![João Marcos status](https://github-readme-stats.vercel.app/api?username=Joao-Sant-Ana&show_icons=true&theme=radical)<br>
-As linguagens que uso no meu dia a dia:<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Sant-Ana&langs_count=8)](https://github.com/Joao-Sant-Ana/github-readme-stats)
-## Teconlogias que tenho conhecimento:
+# Bem vindo ao meu perfil
+Meu nome é João Marcos, tenho 16 anos. Tenho grande interesse em programação.<br>
+Estou no segundo ano do ensimo médio e estou cursando SENAI em programação Full Stack.<br>
 
+## Teconlogias que tenho conhecimento:
 <div style="display_inline_block"><br/>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -25,3 +21,11 @@ As linguagens que uso no meu dia a dia:<br>
   <img align="center" alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-5E4B56?style=for-the-badge&logo=mysql&logoColor=white"/>
  </div> <br>
+##Meu avanço no GitHub: 
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=joao-sant-ana&theme=dark&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api?username=joao-sant-ana&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-sant-ana&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## Teconlogias que tenho conhecimento:
+
+
