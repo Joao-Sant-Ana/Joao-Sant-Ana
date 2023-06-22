@@ -21,6 +21,7 @@ Estou no segundo ano do ensimo médio e estou cursando SENAI em programação Fu
   <img align="center" alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-5E4B56?style=for-the-badge&logo=mysql&logoColor=white"/>
  </div> <br>
+ 
 ## Meu avanço no GitHub: 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joao-sant-ana&theme=dark&hide_border=false)<br>
