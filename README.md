@@ -2,11 +2,12 @@
 Meu nome é João Marcos, tenho 16 anos. Tenho grande interesse em programação.<br>
 Estou no segundo ano do ensimo médio e estou cursando SENAI em programação Full Stack.<br>
 
-## Teconlogias que estou em estudo:
+## Teconlogias que estou estudando:
 <div style="display_inline_block"><br/>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/
+  <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-5E4B56?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div> <br>
 
 ## Tecnologias que quero aprender:
@@ -19,7 +20,6 @@ Estou no segundo ano do ensimo médio e estou cursando SENAI em programação Fu
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img align="center" alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-5E4B56?style=for-the-badge&logo=mysql&logoColor=white"/>
  </div> <br>
  
 ## Meu avanço no GitHub: 
