@@ -1,30 +1,42 @@
-# Bem vindo ao meu perfil
-Meu nome é João Marcos, tenho 16 anos. Tenho grande interesse em programação.<br>
-Estou no segundo ano do ensimo médio e estou cursando SENAI em programação Full Stack.<br>
 
-## Teconlogias que estou estudando:
-<div style="display_inline_block"><br/>
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-5E4B56?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" alt="jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
-</div> <br>
+# 🚀 Sobre mim
 
-## Tecnologias que quero aprender:
- <div style="display_inline_block"><br/>
-  <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img align="center" alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
- </div> <br>
- 
-## Meu avanço no GitHub: 
+Olá e bem vindo ao meu perfil, me chamo João Marcos, tenho 17 anos e estou me tornando um desenvolvedor fullstack. Sou apaixonado por codar e adoro jogar como passa tempo.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=joao-sant-ana&theme=dark&hide_border=false)<br>
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marcos-pinto-sant-ana-7a4ba2259/)
+
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_marcoscap/)
+
+
+## Outras seções comuns em perfis do GitHub
+👩‍💻 Estudo atualmente no Sesi.
+
+👯‍♀️ Procuro colaborar em projetos de código aberto.
+
+🤔 Procuro ajuda com desenvolvimento Back-End, principalmente com PHP.
+
+📫 Você pode entrar em contato comigo pelo instagram ou pelo linkedin.
+
+
+
+## 🛠 Tecnologias que uso
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Meu status
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=joao-sant-ana&theme=dark&hide_border=false)
+<br>
 ![](https://github-readme-stats.vercel.app/api?username=joao-sant-ana&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-sant-ana&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=donut)
