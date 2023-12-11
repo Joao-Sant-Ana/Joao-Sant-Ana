@@ -33,10 +33,3 @@ Olá e bem vindo ao meu perfil, me chamo João Marcos, tenho 17 anos e estou me 
 
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Meu status
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=joao-sant-ana&theme=dark&hide_border=false)
-<br>
-![](https://github-readme-stats.vercel.app/api?username=joao-sant-ana&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-sant-ana&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=donut)
